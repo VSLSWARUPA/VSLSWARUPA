@@ -30,6 +30,6 @@
 
      Visitor Count 
      
- ![Visitor Count](https://profile-counter.glitch.me/{Deepika2505}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{VSLSWARUPA}/count.svg)
 
 
